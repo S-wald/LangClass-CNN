@@ -1,5 +1,3 @@
-# LangClass
-Intellij + MiniConda Python setup
-
-
-Code copied from notebook published in https://github.com/IBM/Project_CodeNet/blob/main/notebooks/Project_CodeNet_LangClass.ipynb
+# Introduction
+This notebook contains implementations of different CNNs for detecting programming languages from source code.
+Please find the documentation in the [notebook](src/LangClass.ipynb).
